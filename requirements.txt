@@ -1,4 +1,4 @@
-openpyxl==3.0.9
-psutil==5.8.0
-pywin32==301
-cpuinfo==7.0.0
+openpyxl
+psutil
+pywin32
+cpuinfo
