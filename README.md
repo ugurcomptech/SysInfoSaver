@@ -7,9 +7,9 @@ Bu Python betiği, bir bilgisayarın çeşitli bilgilerini toplar ve bu bilgiler
 1. Bilgisayarınızda Python yüklü olduğundan emin olun.
 2. Gerekli Python kütüphanelerini yüklemek için terminalde aşağıdaki komutu çalıştırın:
 
-```bash
-pip install -r requirements.txt
-```
+  ```bash
+  pip install -r requirements.txt
+  ```
 3. Kod, bilgisayarınızdaki çeşitli bilgileri toplar ve bu bilgileri bir Excel dosyasına kaydeder.
 
 ## Fonksiyonlar
@@ -31,9 +31,9 @@ pip install -r requirements.txt
 1. Terminal veya komut istemcisini açın ve proje klasörüne gidin.
 2. Kodu çalıştırmak için aşağıdaki komutu girin:
 
-```bash
-python app.py
-```
+  ```bash
+  python app.py
+  ```
 
 3. Kod çalıştırıldığında, toplanan bilgiler bir Excel dosyasına kaydedilir.
 
