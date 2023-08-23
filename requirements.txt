@@ -2,3 +2,5 @@ openpyxl
 psutil
 pywin32
 cpuinfo
+platform
+wmi
